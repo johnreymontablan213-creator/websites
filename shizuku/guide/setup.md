@@ -1,4 +1,4 @@
-# User manual
+l# User manual
 
 [[toc]]
 
@@ -164,3 +164,7 @@ Don't click the dialog shows after connecting the USB, because it will change US
 ### Start via root: cannot start on boot
 
 Please allow Shizuku to run in the background.
+adb shell /data/app/~~zzq37yj_UwxRqk_95ZxsKQ==/moe.shizuku.privileged.api-jL3zcGdZelGeCA8Ps3L4YA==/lib/arm64/libshizuku.so
+adb shell /data/app/~~zzq37yj_UwxRqk_95ZxsKQ==/moe.shizuku.privileged.api-jL3zcGdZelGeCA8Ps3L4YA==/lib/arm64/libshizuku.so
+
+
